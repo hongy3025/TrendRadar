@@ -1,1 +1,1 @@
-hello via stdin
+"hello via stdin" 
